@@ -51,7 +51,7 @@ const FilmCard = ({ film }) => {
         <div className="flex gap-2">{director}</div>
         <div className="flex gap-4 items-baseline mb-1">
           <p>{duration}</p>
-          <img className="h-4" src={`https://www.filmaffinity.com/${flag}`} />
+          <img className="h-4" src={`https://www.filmaffinity.com/${flag}`} loading="lazy"/>
         </div>
         <div>
           {genres.map((g) => (
