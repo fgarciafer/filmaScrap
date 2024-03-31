@@ -71,6 +71,7 @@ const FilmCard = ({ film }) => {
           {stream.map((s) => (
             <img
               src={`images/${s.toUpperCase()}.jpeg`}
+              loading="lazy"
               key={s}
               className="h-8"
             />

@@ -52,7 +52,6 @@ const baseFilms = [
 'https://www.filmaffinity.com/es/film321170.html',
 'https://www.filmaffinity.com/es/film719682.html',
 'https://www.filmaffinity.com/es/film672131.html',
-'https://www.filmaffinity.com/es/film988208.html',
 'https://www.filmaffinity.com/es/film221448.html',
 'https://www.filmaffinity.com/es/film634122.html',
 'https://www.filmaffinity.com/es/film587161.html',
@@ -65,7 +64,6 @@ const baseFilms = [
 'https://www.filmaffinity.com/es/film159721.html',
 'https://www.filmaffinity.com/es/film996849.html',
 'https://www.filmaffinity.com/es/film789671.html',
-'https://www.filmaffinity.com/es/film629411.html',
 'https://www.filmaffinity.com/es/film725497.html',
 'https://www.filmaffinity.com/es/film810074.html',
 'https://www.filmaffinity.com/es/film761497.html',
@@ -79,8 +77,7 @@ const baseFilms = [
 'https://www.filmaffinity.com/es/film656062.html',
 'https://www.filmaffinity.com/es/film791152.html',
 'https://www.filmaffinity.com/es/film983170.html',
-'https://www.filmaffinity.com/es/film899253.html',
-'https://www.filmaffinity.com/es/film303070.html'
+'https://www.filmaffinity.com/es/film899253.html'
 ]
 
 export default baseFilms
